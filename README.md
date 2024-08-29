@@ -24,12 +24,11 @@ Here are some screenshots of the app in action:
 
 | Feature               | Screenshot |
 |-----------------------|------------|
-| **Home Screen**       | ![image](https://github.com/user-attachments/assets/792e7c2f-a6ce-4e92-9103-53eb3d43a10e)|
-| **Image Upload**      | ![image](https://github.com/user-attachments/assets/4391ff15-edb9-4db3-9776-f9de6f02c11b)|
-| **Scan Results**      | ![image](https://github.com/user-attachments/assets/5f7f9918-3c3b-4514-9eff-e755acd24774)|
-| **Symptoms Section**  | ![image](https://github.com/user-attachments/assets/785246ef-e9d1-4d22-b4f0-d77029963ced)|
-| **About Tumor Section** | ![image](https://github.com/user-attachments/assets/cbd05afb-837e-4457-b575-ac0934f7867b)|
-
+| **Home Screen**       | <img src="https://github.com/user-attachments/assets/792e7c2f-a6ce-4e92-9103-53eb3d43a10e" width="200px">|
+| **Image Upload**      | <img src="https://github.com/user-attachments/assets/4391ff15-edb9-4db3-9776-f9de6f02c11b" width="200px">|
+| **Scan Results**      | <img src="https://github.com/user-attachments/assets/5f7f9918-3c3b-4514-9eff-e755acd24774" width="200px">|
+| **Symptoms Section**  | <img src="https://github.com/user-attachments/assets/785246ef-e9d1-4d22-b4f0-d77029963ced" width="200px">|
+| **About Tumor Section** | <img src="https://github.com/user-attachments/assets/cbd05afb-837e-4457-b575-ac0934f7867b" width="200px">|
 
 ## Installation
 
